@@ -1,1 +1,1 @@
-# 11_USGA_Earthquake_Leaflet_Map
+# 11_USGS_Earthquake_Leaflet_Map
